@@ -1,0 +1,38 @@
+2
+.jpg
+blocksize: 4 4
+imagesize: 352 288
+tagger: 18
+Others
+Sky
+LightCloudLeftMidNoVSpeed
+LightCloudLeftSmallDownSmall
+LightCloudLeftSmallUpSmall
+LightCloudLeftSmallDownMid
+LightCloudLeftSmallNoVSpeed
+LightCloudLeftMidUpSmall
+CommonCloudLeftMidUpSmall
+CommonCloudLeftMidNoVSpeed
+CommonCloudLeftSmallUpSmall
+CommonCloudLeftSmallNoVSpeed
+CommonCloudLeftSmallDownSmall
+CommonCloudLeftSmallDownMid
+ThickCloudLeftMidUpSmall
+ThickCloudLeftSmallUpMid
+ThickCloudLeftMidNoVSpeed
+HighLightCloud
+
+D:\VisualStudioProjects\Projects\MyCRF\CRF3D\dataForTraining\dataSet1\
+D:\VisualStudioProjects\Projects\MyCRF\CRF3D\dataForTraining\dataSet3\
+
+20141009010930
+20141009011000
+20141009011030
+20141009011100
+20141009011130
+endOfSet
+20141009022630
+20141009022700
+20141009022730
+20141009022800
+endOfSet

@@ -1,0 +1,13 @@
+1
+.jpg
+blocksize: 4 4
+imagesize: 352 288
+tagger: 0
+
+D:\VisualStudioProjects\Projects\MyCRF\CRF3D\dataForTraining\dataSet3\
+
+20141009022830
+20141009022900
+20141009022930
+20141009023000
+endOfSet
